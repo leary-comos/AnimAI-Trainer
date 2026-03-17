@@ -1,0 +1,14 @@
+venv
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+media
+test.py 
+animai_trainer.egg-info
+temp
+playground.py
+# Environment variables
+.env
