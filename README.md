@@ -27,4 +27,3 @@ In this repository, we will be handling the data processing, and the model train
 - Release the model.
 
 
-
